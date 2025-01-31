@@ -33,7 +33,7 @@ Para que o projeto funcione corretamente, é necessário instalar o **JSON Serve
    ```
 2. Navegue até a pasta do projeto:
    ```bash
-   cd copia_spotfy 
+   cd Spotfy_copy 
    ```
 3. Inicie o servidor com:
    ```bash
