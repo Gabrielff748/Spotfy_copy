@@ -33,7 +33,7 @@ Para que o projeto funcione corretamente, é necessário instalar o **JSON Serve
 ## ⚙️ Como Usar o Projeto
 1. Clone o repositório:
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/Gabrielff748/Spotfy_copy.git
    ```
 2. Navegue até a pasta do projeto:
    ```bash
