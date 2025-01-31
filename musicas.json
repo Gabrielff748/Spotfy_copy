@@ -1,0 +1,25 @@
+{
+  "musicas": [
+    {
+      "nome": "SAD!",
+      "streams": 532500,
+      "duracao": "02:47",
+      "id": "1",
+      "capa": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAMAAAANIilAAAAAaVBMVEX///8AAAD29vbMzMzPz8+dnZ2ampqUlJSXl5f6+vq2trYkJCSQkJBBQUFra2uoqKhGRkY7OzvFxcV9fX2Hh4dSUlK/v79NTU3m5uZbW1uwsLDb29ssLCxlZWUVFRV2dnYcHBw0NDQNDQ0LDbJHAAAERklEQVRIiZ2Xi5KsKAyGE7yDggLKTUV9/4fc9Ow5u7XTeramKau01a8TQvgTweM6IOKyIdbQnWga4GU/4oVNLbe2BO6sTbEDaNw2iZCUaXHyPoGpYDlT73D2G/YABnVa3Fb4szGzWI99P/ROf63A2zbsct+DwSBP9AsueAH2VZdGeiECKEQLAOnEvpwO4eo99rPAYIxfpg23YY/BtevRRj4iqxBQWQ86GILInRKgDJtb0djBS3SJ1/0aVWV05miAActQwlJGzB2fAUfra4OVqsg6vafIzWtFdIiDEMrSZb7QHrMUWala9e5qG1xxHHayjNjMuWqbpqqqumma+nX+fTTt3+e2rumgp83rqq0MYTiBVCk78vZno0Q81v3rci5+ChcEW7K89iA/gK8Lv+bsP4EprLTO2eXtA3hfX5YTdPjjgBXY0HoBWj0/wh1jT3CucIDrtWJPMCv9E7zWJhEsnuE/uL2kLgKuiwk/D9go1lEDynISD5ZZwXWZujv4COg44CzA3VpmlMBnOPsU359psw7bRklysdsk6WQfB+Eq5pN5i3lxVXgMMDf5PmDMM5WHOTG2qPQG4xYgU4Yxm28s122cray471Jqhu8vFBPqUkIAJe/SM5XlL3sa1PZ92gVaBRs4z27dTqb77WznY/sdPvwqD0Ao8x2s/p0o721+s8wxbzDOzN8GrOS/YpxmSuA32KGQtM4Tv82wf72WePHvsODna0tm/T+57SdE+WY5gST4yl9y/TjYHmSqbmBOSrLO+EcZmq2nfHmDUVqyfGz4J/XsHBWT9/TE8IoiFQg+PsNsGTf9vjPIcpwE7Lupr+c5F/py8/umLE6bPLm9NX+Idur4EW50rEDJoSIBVPJ+P8NrrYt43skYyRBnBJ/KPVou81K6WyVxLJaWxICfxxPcRx1udOSlYSPSfrZrWp4qBkucL7fiW+w2ggE7pvionnJ6En0Rer/COkvzpJ5dpYt7uhjMXiX4qpUPsI8e7h8Vk0fKd8qy8/ygYlQm1CDDXN0J4P/ByuoNygmXx4CpJ5cKHHY5g26NelPW3yPhu2T/gq9jRjhHrx/d1pF/181/4P0keDPyMT0V4+oJvjCAWCb1XNzh3uuvhkYwGHrFPynuR+CcumRrP4ERtQDqiI+PYOpGIA/efACfTVouEKFsPoCDzHACDpP4AJ59tyKsTftJKyXt8apVK7UVmlq9n4xuMdnJDSbpT3wf1/cb4j+/1rM4iw2OBjx9Tixqy5ovkdfKLipj3+HQb+dwnGKQMZraVPkSe9Y1px6b1aGOUAB9s6QBq4Wx18Q70Hz2tTPM6yLxKqp4UVOTliiFvMQ4Kga+KqEL/UjNSrV1RxwW7kH5spAaurJHul28uomGvkVCkto0vVOz24UYGVMvMeb90FD7qGHgpuFKNXxp0euaPveoprLkj1Ec66XL3kor530NbnZO13Z9tcNt1uYvXxRJbmSYum8AAAAASUVORK5CYII="
+    },
+    {
+      "nome": "King",
+      "streams": 250320,
+      "duracao": "01:54",
+      "id": "2",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi4fRAVx0XhLekXRbCtSYz-7aKhzSR1eO0yFOqMogSl-7U_yBiD6OqUL8&s=0"
+    },
+    {
+      "nome": "YuNg BrAtZ",
+      "streams": 2910123,
+      "duracao": "01:43",
+      "id": "3",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi4fRAVx0XhLekXRbCtSYz-7aKhzSR1eO0yFOqMogSl-7U_yBiD6OqUL8&s=0"
+    }
+  ]
+}

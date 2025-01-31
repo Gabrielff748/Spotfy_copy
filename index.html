@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Spotify - Marília Mendonça</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+
+    <div class="sidebar">
+      <h1>Spotify</h1>
+      <a href="#">Início</a>
+      <a href="#">Buscar</a>
+      <a href="#">Sua Biblioteca</a>
+    </div>
+
+    <div class="main-content">
+      <div class="artist-header">
+        <img src="https://cdn-images.dzcdn.net/images/cover/f65d5ac8c3a1cdba3d797ade79a47857/0x1900-000000-80-0-0.jpg" alt="XXXTentacion" />
+        <div>
+          <h2>XXXTentacion</h2>
+          <div class="buttons">
+            <a href="#">Play</a>
+            <a href="#">Seguir</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="buttons" id="cadastrar">
+        <a href="#" id="openModalBtn">Cadastrar Nova Música</a>
+      </div>
+
+      <table class="track-list" id="trablista">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Faixa</th>
+            <th>nome</th>
+            <th>Streams</th>
+            <th>Duração</th>
+            <th>Ação</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody class="lista-musicas">
+          
+        </tbody>
+      </table>
+    </div>
+
+    <div class="modal" id="addTrackModal">
+      <div class="modal-content">
+        <span class="close" id="closeModalBtn">&times;</span>
+        <h3>Cadastrar Nova Música</h3>
+
+        <input
+          type="text"
+          id="trackName"
+          placeholder="Nome da Música"
+          required
+        />
+        <input type="text" id="trackDuration" placeholder="Duração" required />
+        <input type="number" id="trackStreams" placeholder="Streams" required />
+        <input type="text" id="trackImage" placeholder="Imagem" required />
+        <button type="submit" onclick="adicionarMusica()">Cadastrar</button>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
+
+
+
+
+
