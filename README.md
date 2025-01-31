@@ -26,10 +26,6 @@ Para que o projeto funcione corretamente, é necessário instalar o **JSON Serve
    ```bash
    npm install -g json-server
    ```
-  3. Após a instalação, inicie o servidor com o comando:
-     ```bash
-     json-server --watch db.json
-     ```
 ## ⚙️ Como Usar o Projeto
 1. Clone o repositório:
    ```bash
@@ -39,7 +35,7 @@ Para que o projeto funcione corretamente, é necessário instalar o **JSON Serve
    ```bash
    cd copia_spotfy 
    ```
-3. Execute com:
+3. Inicie o servidor com:
    ```bash
    json-server --watch musicas.json
    ```
